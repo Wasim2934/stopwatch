@@ -2,7 +2,7 @@
 A clean, modern, and responsive Stopwatch Application built using HTML, CSS, and JavaScript.
 Provides accurate time tracking with a beautiful gradient UI and smooth functionality.
 
-## Live Demo - 
+## Live Demo - https://wasim2934.github.io/stopwatch/
 
 ## Features
 - Start, Stop & Reset controls
